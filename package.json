@@ -1,0 +1,13 @@
+{
+  "name": "multi-container",
+  "version": "1.0.0",
+  "description": "Multi-container Node + MongoDB app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^8.5.0"
+  }
+}
